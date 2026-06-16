@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Admin",
+    "email": "admin@gmail.com",
+    "password": "$2b$10$MHzSnKtm7ypd4mDlBsalW.a9x4X976cyhVXdmiIlqyGWae2tbN5W.",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "name": "User One",
+    "email": "user1@gmail.com",
+    "password": "$2b$10$8n3MMcMFDVGn729WXMsCYOXur/YV/6xS4oWMz4k/ELkG1Txz9bo.S",
+    "role": "user"
+  },
+  {
+    "id": 3,
+    "name": "User Two",
+    "email": "user2@gmail.com",
+    "password": "$2b$10$.0XFs3cJ2rrolUd9UmVBQuGq6SzBRfJvazJlbQo4qFuweZO4xU.dO",
+    "role": "user"
+  },
+  {
+    "id": 4,
+    "name": "User Three",
+    "email": "user3@gmail.com",
+    "password": "$2b$10$EoBgY3SnK5ljgBGqnyrN.OE0GTmnI1LwjqZ5BDuYVtUbhh4E1P1ie",
+    "role": "user"
+  },
+  {
+    "id": 5,
+    "name": "User Four",
+    "email": "user4@gmail.com",
+    "password": "$2b$10$4b0PJR2F8jQX8BkRWUxSN.g9DuOX2ufRTxwVD2aERvUdE1uhi2.CG",
+    "role": "user"
+  },
+  {
+    "id": 6,
+    "name": "User Five",
+    "email": "user5@gmail.com",
+    "password": "$2b$10$8PWdPcFHQMnyq.PAz5fZJ.XFIfuDOW0BUWT.bk4hPf5hdAJlW9UT2",
+    "role": "user"
+  }
+]

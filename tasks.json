@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Design login page",
+    "description": "Create login page UI design",
+    "assignedTo": 2,
+    "status": "completed"
+  },
+  {
+    "id": 3,
+    "title": "Prepare task list",
+    "description": "Create task list data and organize task information properly",
+    "assignedTo": 4,
+    "status": "pending"
+  },
+  {
+    "id": 4,
+    "title": "Test API using Postman",
+    "description": "Test GET, POST, PUT and DELETE APIs using Postman",
+    "assignedTo": 5,
+    "status": "pending"
+  },
+  {
+    "id": 5,
+    "title": "Write project documentation",
+    "description": "Write short documentation about authentication, authorization and CRUD operation",
+    "assignedTo": 6,
+    "status": "pending"
+  },
+  {
+    "id": 6,
+    "title": "Create homepage design",
+    "description": "Design a simple homepage for the task manager project",
+    "assignedTo": 2,
+    "status": "pending"
+  },
+  {
+    "id": 7,
+    "title": "Test authentication API",
+    "description": "Test signup and login API using Postman",
+    "assignedTo": 3,
+    "status": "pending"
+  }
+]
